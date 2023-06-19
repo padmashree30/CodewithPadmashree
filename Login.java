@@ -4,12 +4,12 @@ public class Pattern1 {
 
 	public static void main(String[] args) {
 		int i, j;
-		for(i=1;i<=6;i++) {
+		for(i=1;i<=16;i++) {
 			for(j=1;j<=i;j++) {
-				System.out.print(" * ");
-				System.out.print(" +mkjakj ");
+				System.out.print(" o ");
+				System.out.print(" ahdhf ");
 			}
-			System.out.println("\n");
+			System.out.println("\n \n");
 		}
 	}
 }
