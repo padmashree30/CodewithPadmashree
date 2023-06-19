@@ -7,7 +7,7 @@ public class Pattern1 {
 		for(i=1;i<=16;i++) {
 			for(j=1;j<=i;j++) {
 				System.out.print(" o ");
-				System.out.print(" Padmas ");
+				System.out.print(" ahdhf ");
 			}
 			System.out.println("\n \n");
 		}
